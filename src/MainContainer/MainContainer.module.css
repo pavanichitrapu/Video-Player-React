@@ -1,0 +1,33 @@
+.MainContainer{
+    background-color: white;
+    border-radius: 6px;
+    padding: 16px;
+    box-sizing: border-box;
+    margin-top: 36px;
+    margin-left:15%;
+    margin-right:15%;
+    display: flex;
+    justify-content: space-between;
+}
+.PlaylistConatiner{
+    width:28%;
+    margin-right:3%;
+}
+.Back{
+    position: absolute;
+    top: 24px;
+    left: 24px;
+    color: #fff748;
+    font-size: 20px;
+    text-decoration: underline;
+  }
+  .Title{
+    text-align:center;
+      font-family: 'Caveat Brush', cursive;
+      font-size: 80px;
+      text-align: center;
+      color: #fad744;
+      font-weight:900;
+      text-shadow: 2px 5px #2b3252;
+      
+  }
